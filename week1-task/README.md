@@ -2,6 +2,8 @@
 
 A simple and clean todo application built with React, Redux Toolkit, and Tailwind CSS. All todos are automatically saved to localStorage.
 
+**Live URL** : https://works-todo.vercel.app/
+
 ## Features
 
 - ✅ Add new todos
